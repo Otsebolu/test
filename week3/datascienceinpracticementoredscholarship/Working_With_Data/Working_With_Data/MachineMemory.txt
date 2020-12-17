@@ -1,0 +1,14 @@
+MachineID,MemoryDesc
+Machine_1,This is 6.4GB
+Machine_2,7.8 GB
+Machine_3,2GB
+Machine_4,8 GB
+Machine_5,"8 GB, 6GB"
+Machine_6,1 X 1.6 GB
+Machine_7,5 X 3.4GB
+Machine_8,"1 X 2.4 GB, 4 X 5.2 GB"
+Machine_9,"2 X 9.3GB, 3X 11.7GB"
+Machine_10,"1 X2.38GB, 1X 11.7GB"
+Machine_11,"1.0GB, 1 X8GB, 1X 7.02GB"
+Machine_12,512MB
+Machine_13,"2TB,500GB"

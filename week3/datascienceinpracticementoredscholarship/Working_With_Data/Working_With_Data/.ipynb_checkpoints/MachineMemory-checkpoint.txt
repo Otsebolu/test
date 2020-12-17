@@ -1,0 +1,14 @@
+,MachineID,MemoryDesc
+0,Machine_1,This is 6.4GB
+1,Machine_2,7.8 GB
+2,Machine_3,2GB
+3,Machine_4,8 GB
+4,Machine_5,"8 GB, 6GB"
+5,Machine_6,1 X 1.6 GB
+6,Machine_7,5 X 3.4GB
+7,Machine_8,"1 X 2.4 GB, 4 X 5.2 GB"
+8,Machine_9,"2 X 9.3GB, 3X 11.7GB"
+9,Machine_10,"1 X2.38GB, 1X 11.7GB"
+10,Machine_11,"1.0GB, 1 X8GB, 1X 7.02GB"
+11,Machine_12,512MB
+12,Machine_13,"2TB,500GB"
